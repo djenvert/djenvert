@@ -6,10 +6,9 @@ Ingénieur Supélec (1999), j'ai commencé par développer des sites e-commerce 
 
 ### Parcours
 
-- **Dn'D**, COO, membre du comité de direction (2020 – 2026) : delivery, finance et juridique, 70 personnes, 9,2 M€ de CA. CA en hausse de 84 % en cinq ans, pilotage financier à 3, 6 et 12 mois, TACE porté à 84 %, automatisation du suivi de production par IA (agents, génération de code).
-- **Akeneo**, Directeur Professional Services (2019 – 2020) : équipes internationales hors Amérique du Nord, passage au SaaS.
-- **Smile**, de chef de projet à directeur de l'offre e-commerce groupe (2006 – 2019) : BU e-commerce passée de 6,5 à 10,9 M€ de CA, comité de direction du groupe, partenariats Adobe / Magento, Akeneo et Oro. Clients : Hermès, Dior Couture, The North Face, Vans.
-- **Ares** et **Abridge**, chef de projet puis responsable d'équipe de développement (1999 – 2006).
+- **Dn'D** : COO (2020 – 2026)
+- **Akeneo** : Directeur Professional Services (2019 – 2020)
+- **Smile** : de chef de projet à directeur de l'offre e-commerce groupe (2006 – 2019)
 
 ### Projets publics
 
