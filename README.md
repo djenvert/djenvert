@@ -15,6 +15,7 @@ Ingénieur Supélec (1999), j'ai commencé par développer des sites e-commerce 
 - [gestion-pea](https://github.com/djenvert/gestion-pea) : génère et met à jour un tableau de bord de suivi de PEA à partir des avis d'opéré.
 - [raptor-master-academy](https://github.com/djenvert/raptor-master-academy) : jeu web façon Frogger pour mon groupe de natation, avec classement en ligne ([jouer](https://raptor-master-academy.netlify.app)).
 - [test301](https://github.com/djenvert/test301) : script bash qui vérifie les redirections après une migration de site, à partir d'un CSV.
+- [Gestion PEA](https://github.com/djenvert/gestion-pea) : gestion automatisé d'un PEA à partir des avis d'opérations de la banque, dashboard, rapport hebdo.
 
 ### Me lire, me contacter
 
