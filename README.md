@@ -12,10 +12,10 @@ Ingénieur Supélec (1999), j'ai commencé par développer des sites e-commerce 
 
 ### Projets publics
 
-- [gestion-pea](https://github.com/djenvert/gestion-pea) : génère et met à jour un tableau de bord de suivi de PEA à partir des avis d'opéré.
+- [Le Grand Resserrement](https://pablo-discobar.fr) : catalogue de vinyles de Pablo Discobar, synchronisé chaque heure avec Discogs, avec une admin (pochettes, commandes, articles) et un formulaire de commande. Site sur mesure en PHP et HTML sans framework, hébergé chez OVH, déployé par GitHub Actions. Développé avec Claude Code dans T3 Code : PHP jamais installé sur le Mac, tout tourne dans un conteneur éphémère Apple Containers, où la synchro est vérifiée contre le catalogue réel avant chaque fusion ; chaque PR est relue par un agent indépendant, avec un audit de sécurité en appui. Code privé (projet pour un client).
+- [gestion-pea](https://github.com/djenvert/gestion-pea) : suivi automatisé d'un PEA à partir des avis d'opéré de la banque, avec tableau de bord et rapport hebdomadaire.
 - [raptor-master-academy](https://github.com/djenvert/raptor-master-academy) : jeu web façon Frogger pour mon groupe de natation, avec classement en ligne ([jouer](https://raptor-master-academy.netlify.app)).
 - [test301](https://github.com/djenvert/test301) : script bash qui vérifie les redirections après une migration de site, à partir d'un CSV.
-- [Gestion PEA](https://github.com/djenvert/gestion-pea) : gestion automatisé d'un PEA à partir des avis d'opérations de la banque, dashboard, rapport hebdo.
 
 ### Me lire, me contacter
 
