@@ -10,7 +10,9 @@ Ingénieur Supélec (1999), j'ai commencé par développer des sites e-commerce 
 - **Akeneo** : Directeur Professional Services (2019 – 2020)
 - **Smile** : de chef de projet à directeur de l'offre e-commerce groupe (2006 – 2019)
 
-### Projets publics
+### Projets
+
+- [Mister Clean](https://github.com/djenvert/mister-clean) : mister-clean est un script pour récupérer de l'espace disque sur macOS ! Il en existe des dizaines, mais celui-ci est destiné au bidouilleur hyper qui passe son temps à installer de nouveaux outils ou des modèles en local sur son Mac et pleure ensuite quand son SSD est à bout. C'est un script zsh macOS qui audite le disque (Spotlight, caches, modèles IA, gros dossiers), protège vos projets en cours et fichiers ouverts, et ne supprime quoi que ce soit qu'après un plan de nettoyage confirmé, gradué SÛR / PRUDENCE / MANUEL. En cours mais déjà fonctionnel.
 
 - [Le Grand Resserrement](https://pablo-discobar.fr) : catalogue de vinyles de Pablo Discobar, synchronisé chaque heure avec Discogs, avec une admin (pochettes, commandes, articles) et un formulaire de commande. Site sur mesure en PHP et HTML sans framework, hébergé chez OVH, déployé par GitHub Actions. Développé avec Claude Code dans T3 Code : PHP jamais installé sur le Mac, tout tourne dans un conteneur éphémère Apple Containers, où la synchro est vérifiée contre le catalogue réel avant chaque fusion ; chaque PR est relue par un agent indépendant, avec un audit de sécurité en appui. Code privé (projet pour un client).
 - [gestion-pea](https://github.com/djenvert/gestion-pea) : suivi automatisé d'un PEA à partir des avis d'opéré de la banque, avec tableau de bord et rapport hebdomadaire.
